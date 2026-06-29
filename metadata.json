@@ -1,0 +1,6 @@
+{
+  "name": "Optivra OS",
+  "description": "An autonomous business operating system that functions as an AI Chief Operating Officer, coordinating agents, automating workflows, and managing knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
